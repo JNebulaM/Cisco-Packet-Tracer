@@ -6,3 +6,5 @@ I meticulously check each connection to ensure its proper functioning and deploy
 Furthermore, I have gained proficiency in designing and implementing network topologies, troubleshooting network issues, and understanding the impact of different network configurations. This practical knowledge, coupled with theoretical understanding, makes me adept at handling real-world network scenarios.
 
 This repository contains a collection of my work and demonstrations using Cisco Packet Tracer, showcasing my ability to handle various network scenarios and configurations. I hope it serves as a valuable resource for those interested in network simulation and management.
+
+You must have Cisco Packet Tracer in order to access the following files
